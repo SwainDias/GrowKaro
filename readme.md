@@ -1,4 +1,4 @@
-# **ByteForge NLP Project - Comprehensive Technical Documentation**
+# **GrowKaro Technical Documentation**
 
 ## **1. Project Overview**
 
