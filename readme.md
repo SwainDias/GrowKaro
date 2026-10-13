@@ -2,8 +2,8 @@
 
 ## **1. Project Overview**
 
-**Project Name**: ByteForge Aspect-Based Sentiment Analysis (ABSA) System  
-**Domain**: Food & Beverage (F&B) Industry Intelligence Platform  
+**Project Name**: GrowKaro  
+**Domain**: Businness Intelligence Platform  
 **Primary Function**: Multi-source sentiment analysis, aspect extraction, and business intelligence generation for restaurants, cafes, and bars  
 **Tech Stack**: Python FastAPI backend, React/Next.js frontend, ChromaDB vector store, Google Gemini LLM  
 **Production Sentiment Model**: RoBERTa fine-tuned on Yelp reviews (50K samples)
